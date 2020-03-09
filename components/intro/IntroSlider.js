@@ -67,6 +67,7 @@ export default class App extends React.Component {
         }
     }
 
+    
     _onDone = () => {
         this.setState({ showApp: true })
     }
